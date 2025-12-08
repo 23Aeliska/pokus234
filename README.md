@@ -5,5 +5,6 @@ kus textu
 - jedna
 - dva
 - tri
+- ctyri
 
 dalsi kus textu
